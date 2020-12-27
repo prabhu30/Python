@@ -1,1 +1,3 @@
 string | method 
+--- | ---
+ hi | hello
