@@ -1,8 +1,6 @@
---- | ---
 BUILT-IN FUNCTION | DESCRIPTION
 --- | ---
 string.ascii_letters | Concatenation of the ascii_lowercase and ascii_uppercase constants.
---- | ---
 string.ascii_lowercase | Concatenation of lowercase letters
 --- | ---
 string.ascii_uppercase | Concatenation of uppercase letters
