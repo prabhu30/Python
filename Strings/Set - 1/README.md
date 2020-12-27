@@ -1,1 +1,1 @@
-| string | method |
+string | method 
